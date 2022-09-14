@@ -1,5 +1,7 @@
 package com.team7419.templates;
 
+//trial
+
 import edu.wpi.first.wpilibj2.command.CommandBase;
 
 public class ExampleCommand extends CommandBase {
