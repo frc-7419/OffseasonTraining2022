@@ -32,7 +32,7 @@ public class RunIntakeAndLoaderWithJoystick extends CommandBase {
     }
     else if (joystick.getLeftTriggerAxis() > 0) {
         intakeSubsystem.setPower(-1);
-        loaderSubsystem.setPower(-0.4);
+        loaderSubsystem.setPower(-0.45);
       } 
     else {
       intakeSubsystem.setPower(0);
